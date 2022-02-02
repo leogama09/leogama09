@@ -16,8 +16,10 @@
 
 ## Languages and Tools
 
-![leogama09's GitHub stats](https://github-readme-stats.vercel.app/api?username=leogama09&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leogama09&layout=compact&theme=tokyonight)](https://github.com/leogama09/github-readme-stats)
+<div>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=leogama09&show_icons=true&theme=tokyonight" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leogama09&layout=compact&theme=tokyonight" />
+</div>
 
 <div>
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
