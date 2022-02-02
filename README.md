@@ -19,13 +19,19 @@
 ![leogama09's GitHub stats](https://github-readme-stats.vercel.app/api?username=leogama09&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leogama09&layout=compact)](https://github.com/leogama09/github-readme-stats)
 
-<code><img height="20" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></code>
+<div>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+</div>
+
 
 ## 💻 My workspace <br>
-<code><img height="20" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/Intel%20Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"></code>
+
+<div>
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+<img src="https://img.shields.io/badge/Intel%20Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white">
+<img src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
+</div>
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
