@@ -16,7 +16,7 @@
 
 ## Languages and Tools
 
-![leogama09's GitHub stats](https://github-readme-stats.vercel.app/api?username=leogama09&show_icons=true&theme=onedark)
+![leogama09's GitHub stats](https://github-readme-stats.vercel.app/api?username=leogama09&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leogama09&layout=compact)](https://github.com/leogama09/github-readme-stats)
 
 <code><img height="20" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
