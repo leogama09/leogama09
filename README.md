@@ -6,7 +6,7 @@
 
 💻 I'm currently learning HTML, CSS and Javascript.
 
-🧗‍♂️ I'm almost finishing my bachelor's degree in Architecture
+🧗‍♂️ I'm almost finishing my bachelor's degree in Architecture, but i found my passion in programming.
 
 📧 E-Mail: leogama09@gmail.com
 
