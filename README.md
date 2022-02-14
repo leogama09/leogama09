@@ -18,7 +18,7 @@
 
 <div>
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=leogama09&show_icons=true&theme=tokyonight" />
-<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leogama09&layout=compact&langs_count=3&theme=tokyonight" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leogama09&layout=compact&langs_count=3&theme=tokyonight" />
 </div>
 
 <div>
