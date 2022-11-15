@@ -35,7 +35,8 @@
 <img height="50" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jquery/jquery-plain.svg" />
 <img height="50" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/sass/sass-original.svg" />
 <img height="50" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bootstrap/bootstrap-plain.svg" />
-<img height="50" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg" />  
+<img height="50" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg" />
+<img height="50" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vuejs/vuejs-original.svg" />
 </div>
 
 
