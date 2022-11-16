@@ -37,6 +37,7 @@
 <img height="50" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bootstrap/bootstrap-plain.svg" />
 <img height="50" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg" />
 <img height="50" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/express/express-original.svg" />
+<img height="50" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/webpack/webpack-original.svg" />
 </div>
 
 
