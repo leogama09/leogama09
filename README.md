@@ -4,7 +4,7 @@
 
 🌆 I live in São Paulo-SP, Brazil
 
-💻 I'm currently learning HTML, CSS Javascript & frameworks!
+💻 I'm currently learning HTML, CSS Javascript & front-end/back-end frameworks!
 
 🧗‍♂️ Studying Systems Analysis and Development at Anhembi Morumbi University.
 
