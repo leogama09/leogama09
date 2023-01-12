@@ -30,6 +30,7 @@
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img height="50" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/typescript/typescript-original.svg" />
 <img height="50" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg" /> 
 <img height="50" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/redux/redux-original.svg" />
 <img height="50" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nextjs/nextjs-line.svg" />
