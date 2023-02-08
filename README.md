@@ -24,7 +24,7 @@
 <img height="160em" src="https://github-readme-stats-02.vercel.app/api/top-langs/?username=leogama09&layout=compact&langs_count=3&theme=tokyonight" />
 </div>
 
-<div>
+<div align="center">
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
