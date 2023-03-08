@@ -40,6 +40,7 @@
 <img height="50" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg" />
 <img height="50" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/express/express-original.svg" />
 <img height="50" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/firebase/firebase-plain.svg" />
+<img height="50" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/php/php-plain.svg" />
 <img height="50" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original.svg" />
 <img height="50" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/eslint/eslint-original.svg" />
 <img height="50" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
