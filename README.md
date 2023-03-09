@@ -57,4 +57,4 @@
 <img src="https://img.shields.io/badge/AMD-Radeon_RX_5500-ED1C24?style=for-the-badge&logo=amd&logoColor=white">
 </div>
 
-![snake gif](https://github.com/Platane/snk/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Platane/snk/blob/output/github-contribution-grid-snake-dark.svg)
