@@ -2,9 +2,11 @@
 
 ## About me
 
-🌆 I live in São Paulo-SP, Brazil
+🌆 I live in São Paulo-SP, Brazil.
 
-💻 I'm a junior full-stack developer
+💻 I'm a junior full-stack developer.
+
+📜 Certified SCRUM Professional.
 
 🎮 I like to play RPG Open-world games like: Zelda, Elden Ring & No Man's Sky.
 
