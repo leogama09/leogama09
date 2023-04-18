@@ -4,7 +4,9 @@
 
 🌆 I live in São Paulo-SP, Brazil
 
-💻 I'm currently mastering front-end/back-end tecnologies!
+💻 I'm a junior full-stack developer
+
+🎮 I like to play RPG Open-world games like: Zelda, Elden Ring & No Man's Sky.
 
 🧗‍♂️ Studying Systems Analysis and Development at Anhembi Morumbi University.
 
