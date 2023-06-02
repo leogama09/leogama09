@@ -4,7 +4,7 @@
 
 🌆 I live in São Paulo-SP, Brazil.
 
-💻 I'm a junior full-stack developer.
+💻 I'm a full-stack developer.
 
 📜 Certified SCRUM Professional.
 
