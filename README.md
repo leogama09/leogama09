@@ -4,13 +4,9 @@
 
 🌆 I live in São Paulo-SP, Brazil.
 
-💻 I'm a full-stack developer.
+💻 Professional with experience in sales and technology, focused on data analysis, performance, and decision-making.
 
 📜 Certified SCRUM Professional.
-
-🎮 I like to play RPG Open-world games like: Zelda, Elden Ring & No Man's Sky.
-
-🧗‍♂️ Studying Systems Analysis and Development at Anhembi Morumbi University.
 
 💪 Self-taught.
 
