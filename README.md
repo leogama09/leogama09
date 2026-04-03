@@ -10,8 +10,6 @@
 
 💪 Self-taught.
 
-📧 E-Mail: leogama09@gmail.com
-
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/leonardo.gama.71/)](https://www.facebook.com/leonardo.gama.71/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/leeo_gama/)](https://www.instagram.com/leeo_gama/)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-gama-aguiar-88a198126/)](https://www.linkedin.com/in/leonardo-gama-aguiar-88a198126/)
